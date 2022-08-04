@@ -1,5 +1,5 @@
 # Auth
-A simple auth system that I made to learn ruby and sessions.
+A simple auth system that I made to learn ruby on rails and sessions.
 
 ## Installation
 Add this line to your application's Gemfile:
